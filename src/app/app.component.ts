@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
-import { Howl } from 'howler'
+import { Howl } from 'howler';
+import {Paper} from 'paper';
 
 @Component({
   selector: 'app-root',
@@ -194,4 +195,9 @@ export class AppComponent {
     }
     // sound.play();
   }
+
+
+  //paper.js test
+
+
 }
