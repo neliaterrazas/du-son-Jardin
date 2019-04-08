@@ -8,7 +8,7 @@ import { KeysComponent } from './keys/keys.component';
 const appRoutes: Routes = [
   { path: '', redirectTo: '/splash', pathMatch: 'full' },
   { path: 'splash', component: SplashPageComponent },
-  { path: 'paper', component: PaperCanvasComponent }
+  { path: 'paper', component: PaperCanvasComponent },
   { path: 'keys', component: KeysComponent }
 ];
 
