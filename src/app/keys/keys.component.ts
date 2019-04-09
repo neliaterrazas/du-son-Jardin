@@ -169,7 +169,7 @@ export class KeysComponent {
       },
       l: {
         sound: new Howl({
-          src: ['../assets/sounds/veli.mp3']
+          src: ['../assets/sounds/veil.mp3']
         }),
         // color: '#1abc9c'
       },
@@ -182,7 +182,7 @@ export class KeysComponent {
       m: {
         sound: new Howl({
           src: ['../assets/sounds/zig-zag.mp3'],
-          
+
         }),
         // color: '#1abc9c'
       },
