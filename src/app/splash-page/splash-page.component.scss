@@ -15,6 +15,9 @@
     height: auto;
     margin: auto;
     align-items: center;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
     img {
       width: 40vw;
 
@@ -59,6 +62,15 @@
       }
     }
   }
+
+  #sample {
+    color: white;
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+
+  }
+
 }
 
 

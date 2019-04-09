@@ -1,6 +1,9 @@
 import { Component } from '@angular/core';
 import { Howl } from 'howler';
 import { KeysComponent } from './keys/keys.component';
+import { AnimationsComponent} from './animations/animations.component';
+import { HostBinding } from '@angular/core';
+
 
 @Component({
   selector: 'app-root',
