@@ -1,7 +1,5 @@
 # DuSonJardin
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
-
 [Top 11 animation libraries](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 
  __Tasks :__
@@ -36,7 +34,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
          - [x/100] SEO
          - [x/100] Progressive Web App
 
+## Further Exploration / Future Updates
 
+* split screen between melodic and rhythmic
+* ngAudio
+* ngAnimate
 
 ## Development server
 
